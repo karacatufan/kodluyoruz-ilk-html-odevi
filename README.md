@@ -1,1 +1,1 @@
-# kodluyoruz-ilk-html-odevi
+Bu web sayfası Kodluyoruz Frontend Web Development HTML eğitimi için yaptığım bir ödevdir.
